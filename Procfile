@@ -1,1 +1,1 @@
-web: python botgoroscop.py
+web: python3 botgoroscop.py
