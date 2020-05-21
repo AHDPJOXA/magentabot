@@ -3,6 +3,7 @@ colorama==0.4.3
 distlib==0.3.0
 filelock==3.0.12
 pyTelegramBotAPI==3.7.1
+requests==2.7.0
 six==1.14.0
 telebot==0.0.3
 virtualenv==20.0.21
